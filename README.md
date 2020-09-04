@@ -1,2 +1,0 @@
-# antares-pedia
-Panel SMM
